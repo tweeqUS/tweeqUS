@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tweeqUS
+- 👋 Hi, I’m Kirya @tweeqUS
 - 👀 I’m interested in Front-end , React, JavaScript, TypeScript
 - 🌱 I’m currently learning React, JavaScript, TypeScript
 - 📫 How to reach me Telegram @brvzv
